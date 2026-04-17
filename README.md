@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Nur Mohammad Ali</h1>
-<h3 align="center">Doctoral Researcher | AI-Enabled Systems for Industry & Transportation | Data Analytics | Supply Chain</h3>
+<h3 align="center">Doctoral Candidate | Building AI-Enabled Systems for Manufacturing & Transportation | Data Analytics | Supply Chain</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nmalinipun&label=Profile%20views&color=0e75b6&style=flat" alt="nmalinipun" />
@@ -30,9 +30,6 @@ My work combines **machine learning, data analytics, forecasting, supply chain i
   <a href="https://www.linkedin.com/in/nmalinipun/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <a href="https://github.com/nmalinipun" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
-  </a>
 </p>
 
 </td>
@@ -53,7 +50,13 @@ My work combines **machine learning, data analytics, forecasting, supply chain i
 ## Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite,tensorflow,pytorch,git,github,vscode,html,css,js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="SQL" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50" alt="Jupyter Notebook" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="50" alt="Google AI Studio" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" alt="Power BI" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="50" alt="Tableau" />
+  <img src="https://cdn.worldvectorlogo.com/logos/sap-1.svg" height="50" alt="SAP" />
 </p>
 
 ---
