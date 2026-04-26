@@ -35,7 +35,9 @@ My work combines **machine learning, data analytics, forecasting, supply chain i
 </td>
 <td width="40%" align="center" valign="top">
 
-<img src="./assets/drivesense-ai-logo.png" alt="DriveSense AI Logo" width="100%" />
+<a href="https://drivesense-ai-app.streamlit.app/" target="_blank">
+  <img src="./assets/drivesense-ai-logo.png" alt="DriveSense AI Logo" width="100%" />
+</a>
 
 <br><br>
 
@@ -79,11 +81,11 @@ My work combines **machine learning, data analytics, forecasting, supply chain i
 <table>
 <tr>
 <td width="50%" align="center">
-  <a href="https://github.com/nmalinipun">
+  <a href="https://drivesense-ai-app.streamlit.app/" target="_blank">
     <img src="./assets/drivesense-ai-logo.png" width="90%" alt="DriveSense AI"/>
   </a>
   <br>
-  <b>DriveSense AI</b>
+  <a href="https://drivesense-ai-app.streamlit.app/" target="_blank"><b>DriveSense AI</b></a>
   <br>
   AI-enabled car acoustic diagnosis system
 </td>
