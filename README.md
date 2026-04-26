@@ -91,7 +91,7 @@ My work combines **machine learning, data analytics, forecasting, supply chain i
 </td>
 
 <td width="50%" align="center">
-  <a href="https://github.com/nmalinipun/Customer_behavior-_Analysis-dashboard">
+  <a href="https://github.com/nmalinipun/Customer_behavior-_Analysis-dashboard" target="_blank">
     <img src="https://img.shields.io/badge/Customer%20Behavior%20Dashboard-Analytics-blue?style=for-the-badge" />
   </a>
   <br>
@@ -103,7 +103,7 @@ My work combines **machine learning, data analytics, forecasting, supply chain i
 
 <tr>
 <td width="50%" align="center">
-  <a href="https://github.com/nmalinipun/Actual-vs-ANN-forecast-for-USA-car-sales-1990-to-2019-">
+  <a href="https://github.com/nmalinipun/Actual-vs-ANN-forecast-for-USA-car-sales-1990-to-2019-" target="_blank">
     <img src="https://img.shields.io/badge/USA%20Car%20Sales%20Forecasting-ANN-orange?style=for-the-badge" />
   </a>
   <br>
@@ -113,7 +113,7 @@ My work combines **machine learning, data analytics, forecasting, supply chain i
 </td>
 
 <td width="50%" align="center">
-  <a href="https://github.com/nmalinipun/nur-ali.github.io">
+  <a href="https://github.com/nmalinipun/nur-ali.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Personal%20Website-Portfolio-success?style=for-the-badge" />
   </a>
   <br>
