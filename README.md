@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Nur Mohammad Ali</h1>
-<h3 align="center">Doctoral Candidate | Building AI-Enabled Systems for Manufacturing & Transportation | Data Analytics | Supply Chain</h3>
+<h3 align="center">Doctoral student | Building AI-Enabled Systems for Manufacturing & Transportation | Data Analytics | LLM</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nmalinipun&label=Profile%20views&color=0e75b6&style=flat" alt="nmalinipun" />
