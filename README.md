@@ -53,11 +53,21 @@ My work combines **machine learning, data analytics, forecasting, supply chain i
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="SQL" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="SQL / MySQL" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50" alt="Jupyter Notebook" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="50" alt="Google AI Studio" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="50" alt="Google Cloud / Google AI Studio" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlebigquery/4285F4" height="50" alt="BigQuery" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="50" alt="Gemini" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" alt="Power BI" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="50" alt="Tableau" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/sap-1.svg" height="50" alt="SAP" />
 </p>
 
@@ -136,12 +146,12 @@ My work combines **machine learning, data analytics, forecasting, supply chain i
 
 <td width="50%" align="center">
   <a href="https://github.com/nmalinipun/ai-workforce-attrition-dashboard-assistant" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20Repository-Source%20Code-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Workforce%20AI%20Project-GitHub%20Repo-black?style=for-the-badge&logo=github" />
   </a>
   <br>
-  <b>Workforce AI Insight Assistant Repository</b>
+  <b>Workforce AI GitHub Repository</b>
   <br>
-  Source code for the Streamlit + Gemini dashboard assistant
+  Source code, deployment files, and documentation
 </td>
 </tr>
 </table>
