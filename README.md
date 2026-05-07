@@ -91,6 +91,18 @@ My work combines **machine learning, data analytics, forecasting, supply chain i
 </td>
 
 <td width="50%" align="center">
+  <a href="https://ai-workforce-attrition-dashboard-assistant.streamlit.app/" target="_blank">
+    <img src="./Nur-Mohammad-Ali-ai-assistant-workforce.png" width="90%" alt="Workforce AI Insight Assistant"/>
+  </a>
+  <br>
+  <a href="https://ai-workforce-attrition-dashboard-assistant.streamlit.app/" target="_blank"><b>Workforce AI Insight Assistant</b></a>
+  <br>
+  AI-powered Power BI dashboard Q&A using Streamlit and Gemini API
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
   <a href="https://github.com/nmalinipun/Customer_behavior-_Analysis-dashboard" target="_blank">
     <img src="https://img.shields.io/badge/Customer%20Behavior%20Dashboard-Analytics-blue?style=for-the-badge" />
   </a>
@@ -99,9 +111,7 @@ My work combines **machine learning, data analytics, forecasting, supply chain i
   <br>
   Python + MySQL + Tableau analytics project
 </td>
-</tr>
 
-<tr>
 <td width="50%" align="center">
   <a href="https://github.com/nmalinipun/Actual-vs-ANN-forecast-for-USA-car-sales-1990-to-2019-" target="_blank">
     <img src="https://img.shields.io/badge/USA%20Car%20Sales%20Forecasting-ANN-orange?style=for-the-badge" />
@@ -111,7 +121,9 @@ My work combines **machine learning, data analytics, forecasting, supply chain i
   <br>
   Forecasting and comparison of actual vs ANN predictions
 </td>
+</tr>
 
+<tr>
 <td width="50%" align="center">
   <a href="https://github.com/nmalinipun/nur-ali.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Personal%20Website-Portfolio-success?style=for-the-badge" />
@@ -120,6 +132,16 @@ My work combines **machine learning, data analytics, forecasting, supply chain i
   <b>Personal Website</b>
   <br>
   Portfolio, research, and career website
+</td>
+
+<td width="50%" align="center">
+  <a href="https://github.com/nmalinipun/ai-workforce-attrition-dashboard-assistant" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Repository-Source%20Code-black?style=for-the-badge&logo=github" />
+  </a>
+  <br>
+  <b>Workforce AI Insight Assistant Repository</b>
+  <br>
+  Source code for the Streamlit + Gemini dashboard assistant
 </td>
 </tr>
 </table>
